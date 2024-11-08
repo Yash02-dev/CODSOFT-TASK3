@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+
+}
+
+.input{
+    width: 220px;
+    height: 25px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    
+    
+}
+
+.button{
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
